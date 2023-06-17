@@ -1,0 +1,25 @@
+.apple-pile {
+    background-image: url("apple-pie.jpg");
+    color: white;
+    text-align: center;
+    background-size: cover;
+    padding: 250px 0;
+    background-position: center;
+}
+
+.para-gra {
+    margin: 50px;
+    font-size: 20px;
+    /*font-weight: bold; */
+    font-weight: lighter;
+}
+
+.imagery-1{
+    margin: 32px auto;
+    display: block;
+    
+}
+
+.dashed {
+    list-style: none;
+}
